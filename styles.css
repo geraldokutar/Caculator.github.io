@@ -21,3 +21,13 @@ input[type=text]{
   margin-top: 20;
   border-radius: 5px;
 }
+input[type=button]{
+  width:89px;
+  padding: 10px;
+  font-size: 22px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+#del {
+  width: 100%;
+}
